@@ -36,7 +36,7 @@ I have a wide variety of experience that not only showcases my web development s
 
 - [***Escape VR***](https://github.com/cris178/EscapeVR): A creepy VR project built for the Oculus, run it with Unity.🔦 
 
-- [P2P FileSystem](https://github.com/cris178/P2PFileSystem): My Senior Design project. Share text files on your linux machines! 📂 
+- [***P2P FileSystem***](https://github.com/cris178/P2PFileSystem): My Senior Design project. Share text files on your linux machines! 📂 
 
 
 ### Currently Working on...
