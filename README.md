@@ -30,9 +30,9 @@ I have a wide variety of experience that not only showcases my web development s
 
 - [***Stitch Messaging***](https://github.com/jasonthejewell/CS180-Group-Stitch/tree/master/team-stitch) Anon chat with people in your local area or watch videos together live. ✉️
 
-- [***Cutie Hack***](https://www.behance.net/gallery/68991005/Cutie-Hack) I pitched, designed, and built the front end for Cutie Hack. 
+- [***Cutie Hack***](https://www.behance.net/gallery/68991005/Cutie-Hack): I pitched, designed, and built the front end for Cutie Hack.🍊           
 
-- [***Highlander Con***](https://www.behance.net/gallery/98850669/Highlander-Con-Design) I designed Highlander Con's web page.
+- [***Highlander Con***](https://www.behance.net/gallery/98850669/Highlander-Con-Design): I designed Highlander Con's web page. 🎽
 
 - [***/r/Cuphead***](https://github.com/cris178/Cuphead): The CSS for /r/Cuphead. Helped grow the community to over 30K subscribers. ☕️ 
 
