@@ -45,7 +45,7 @@ I have a wide variety of experience that not only showcases my web development s
 
 ### Currently Working on...
 
-- [***100 moons***](https://github.com/cris178/100moons): Currently am trying to make a full stack AWS web app similar in functionality to Medium. So far I am digging AWS hosting and its CI/CD integration with Github. Hoping to learn GraphQL in order to work with the back end. 🌙
+- [***Type Moon***](typemoon.app): Currently am trying to make a full stack AWS web app similar in functionality to the Stitch App. The purpose of this project is to become familiar with AWS Hosting, CI/CD, App Sync, GraphQL, and Authentication. The app is currently a work in progress.  🌙
 
 
 ## Lets chat! 
