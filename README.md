@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 I have a wide variety of experience that not only showcases my web development skills but my experience building, growing, and launching communities online.
 
+- [***Automata UI***](https://cristianreyes.net/): After reading [Platnium Games' design walk through](https://www.platinumgames.com/official-blog/article/9624) of the UI of Nier Automata I decided to recreate the 'broken' pause menu as my personal portfolio website. 
+
 - [***HLG Stats***](https://github.com/cris178/StatsApp): A mobile esports statistics site displaying player data from League of Legends. 🎮 
 
 - [***Dripp Weather***](https://github.com/cris178/weatherapp): A simple weather app that displays highs and lows by using the Open Weather API. ⚡
