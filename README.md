@@ -48,7 +48,7 @@ I have a wide variety of experience that not only showcases my web development s
 
 ### Currently Working on...
 
-- [***Type Moon***](https://typemoon.app): Currently am trying to make a full stack AWS web app similar in functionality to the Stitch App. The purpose of this project is to become familiar with AWS Hosting, CI/CD, App Sync, GraphQL, and Authentication. The app is currently a work in progress.  🌙
+- [***Type Moon***](https://typemoon.app): A simple Twitter like messaging app. The purpose of this project is to become familiar with AWS services such as Hosting, CI/CD, App Sync, GraphQL, and Authentication. The app is currently a work in progress.  🌙
 
 
 ## Lets chat! 
