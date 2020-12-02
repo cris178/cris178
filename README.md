@@ -48,7 +48,7 @@ I have a wide variety of experience that not only showcases my web development s
 
 ### Currently Working on...
 
-- [***Type Moon***](https://typemoon.app): A simple Twitter like messaging app. The purpose of this project is to become familiar with AWS services such as Hosting, CI/CD, App Sync, GraphQL, and Authentication. The app is currently a work in progress.  🌙
+- [***Type Moon***](https://github.com/cris178/typemoon): A simple Twitter like messaging app. The purpose of this project is to become familiar with AWS services such as Hosting, CI/CD, App Sync, GraphQL, and Authentication. The app is currently a work in progress.  🌙
 
 - [****Codename LSF***](https://100moons.app/about): A future video mobile app. The technology am hoping to learn with this project is React Native and maybe even Electron. 
 
