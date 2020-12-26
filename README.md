@@ -50,6 +50,8 @@ I have a wide variety of experience that not only showcases my web development s
 
 - [***Type Moon***](https://github.com/cris178/typemoon): A simple Twitter like messaging app. The purpose of this project is to become familiar with AWS services such as Hosting, CI/CD, App Sync, GraphQL, and Authentication. The app is currently a work in progress.  🌙
 
+- [***Halo Transcriber***](https://github.com/cris178/HaloTranscriber): Translate the Forerunner language form the video game Halo to English.
+
 - [****Codename LSF***](https://100moons.app/about): A future video mobile app. The technology am hoping to learn with this project is React Native and maybe even Electron. 
 
 
